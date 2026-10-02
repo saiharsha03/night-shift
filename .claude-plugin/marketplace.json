@@ -1,0 +1,16 @@
+{
+  "name": "night-shift",
+  "owner": {
+    "name": "Sai Rudra"
+  },
+  "metadata": {
+    "description": "Clawd's office above the prompt follows your clock: sunrise, day shift, desk lamp at night, yawning after midnight. /night-shift toggles it."
+  },
+  "plugins": [
+    {
+      "name": "night-shift",
+      "source": "./",
+      "description": "Clawd's office above the prompt follows your clock: sunrise, day shift, desk lamp at night, yawning after midnight. /night-shift toggles it."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "night-shift",
+  "version": "0.1.0",
+  "description": "Clawd's office above the prompt follows your clock: sunrise, day shift, desk lamp at night, yawning after midnight. /night-shift toggles it.",
+  "author": {
+    "name": "Sai Rudra"
+  },
+  "types": "./types/index.d.ts",
+  "displayName": "Night Shift",
+  "homepage": "https://github.com/saiharsha03/night-shift",
+  "repository": "https://github.com/saiharsha03/night-shift",
+  "license": "MIT"
+}
